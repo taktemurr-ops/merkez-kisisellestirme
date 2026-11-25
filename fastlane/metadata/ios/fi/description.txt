@@ -1,0 +1,4 @@
+Alkuperäiset taustat, kuvakkeet, äänet ja kellot; offline.
+
+• Näyttö: Elävät taustakuvat, Widgetpaketti, Alkuperäinen kuvakepaketti, Latauskello (näytönsäästäjä)
+• Ääni: Ilmoitusäänet ja soittoäänet

@@ -1,0 +1,1 @@
+animados,pacote,widgets,original,relógio,carregamento,descanso,tela,notificação,toques,relógios
