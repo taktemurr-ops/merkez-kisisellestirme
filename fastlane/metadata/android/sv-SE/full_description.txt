@@ -1,0 +1,4 @@
+Egna bakgrunder, ikoner, ljud och klockor; offline.
+
+• Skärm: Levande bakgrunder, Widgetpaket, Eget ikonpaket, Laddningsklocka (skärmsläckare)
+• Ljud: Aviseringsljud och ringsignaler

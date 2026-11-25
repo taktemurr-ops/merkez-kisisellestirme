@@ -1,0 +1,98 @@
+name: merkez_kisisellestirme
+description: "Kişiselleştirme merkez uygulaması: 5 çevrimdışı araç. Android, iOS ve Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  # Araçların ortak motoru
+  kisisel_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/kisisel-motoru
+      ref: main
+  # Merkezdeki araçlar (her biri kendi deposunda)
+  uyg_canli_duvar_kagidi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-canli-duvar-kagidi
+      ref: main
+  uyg_widget_paketi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-widget-paketi
+      ref: main
+  uyg_ozgun_ikon_paketi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ozgun-ikon-paketi
+      ref: main
+  uyg_bildirim_ve_zil_sesi_paketi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-bildirim-ve-zil-sesi-paketi
+      ref: main
+  uyg_kilit_ekrani_saati:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kilit-ekrani-saati
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Bütün araçlar aynı çekirdek ve motor sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+  kisisel_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/kisisel-motoru
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#1A1030"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#1A1030"
+    theme_color: "#1A1030"
+
+flutter_native_splash:
+  color: "#1A1030"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#1A1030"
+    image: assets/branding/splash_android12.png
+  web: true

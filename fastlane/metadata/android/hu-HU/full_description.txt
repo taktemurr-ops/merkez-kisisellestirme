@@ -1,0 +1,4 @@
+Eredeti háttérképek, ikonok, hangok és órák; offline.
+
+• Képernyő: Élő háttérképek, Widgetcsomag, Eredeti ikoncsomag, Töltési óra (képernyővédő)
+• Hang: Értesítési hangok és csengőhangok
