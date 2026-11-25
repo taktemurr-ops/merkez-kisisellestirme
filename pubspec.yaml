@@ -18,28 +18,28 @@ dependencies:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: b80a6a8b9c6e87765b5b806a152c293372f4b2dd
+      ref: c312d857ea650a5cc2af1b7b1d447eaa21003e11
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_canli_duvar_kagidi:
     git:
       url: https://github.com/taktemurr-ops/uyg-canli-duvar-kagidi
-      ref: 024c0976e77cdf371eeb222e0ba7c9d278d9d593
+      ref: 9669c853a3d98f39b425aaa888bb2c89e0b10840
   uyg_widget_paketi:
     git:
       url: https://github.com/taktemurr-ops/uyg-widget-paketi
-      ref: dd3966314c97cbce0aa26868283210768f4b784b
+      ref: 4a8e600dfe2f514e9c4e2b875987194bfaba0c8c
   uyg_ozgun_ikon_paketi:
     git:
       url: https://github.com/taktemurr-ops/uyg-ozgun-ikon-paketi
-      ref: 873cec6c35284578246fd45f99ad6e060979cce6
+      ref: fcac4498bc7088b296be292d72de49e2f901b622
   uyg_bildirim_ve_zil_sesi_paketi:
     git:
       url: https://github.com/taktemurr-ops/uyg-bildirim-ve-zil-sesi-paketi
-      ref: b605822d3c6a3981266715bdf0ffb9ea9fbf9dcd
+      ref: 5580818c26ad8f70138b7658377c6e18e01d70e1
   uyg_kilit_ekrani_saati:
     git:
       url: https://github.com/taktemurr-ops/uyg-kilit-ekrani-saati
-      ref: bffd30cd4b77c72e803cf002a9f7d3f40370b536
+      ref: d93e5627f32e0b84fd5fb3ffb791083a8107330e
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -57,7 +57,7 @@ dependency_overrides:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: b80a6a8b9c6e87765b5b806a152c293372f4b2dd
+      ref: c312d857ea650a5cc2af1b7b1d447eaa21003e11
 
 dev_dependencies:
   flutter_test:
