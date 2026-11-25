@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   # Araçların ortak motoru
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: c312d857ea650a5cc2af1b7b1d447eaa21003e11
+      ref: 8427dca132e3642f02965b597cddda2c9a9f6a18
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_canli_duvar_kagidi:
     git:
@@ -53,11 +53,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: c312d857ea650a5cc2af1b7b1d447eaa21003e11
+      ref: 8427dca132e3642f02965b597cddda2c9a9f6a18
 
 dev_dependencies:
   flutter_test:
