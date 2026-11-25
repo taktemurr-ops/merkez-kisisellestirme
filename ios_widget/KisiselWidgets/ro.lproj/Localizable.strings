@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Ceas";
+"w_date" = "Dată";
+"w_countdown" = "Numărătoare inversă";
+"w_note" = "Notiță";
+"w_battery" = "Baterie";

@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Óra";
+"w_date" = "Dátum";
+"w_countdown" = "Visszaszámláló";
+"w_note" = "Jegyzet";
+"w_battery" = "Akkumulátor";

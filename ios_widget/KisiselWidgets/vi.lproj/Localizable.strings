@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Đồng hồ";
+"w_date" = "Ngày";
+"w_countdown" = "Đếm ngược";
+"w_note" = "Ghi chú";
+"w_battery" = "Pin";

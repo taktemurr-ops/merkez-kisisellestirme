@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Orasan";
+"w_date" = "Petsa";
+"w_countdown" = "Countdown";
+"w_note" = "Tala";
+"w_battery" = "Baterya";

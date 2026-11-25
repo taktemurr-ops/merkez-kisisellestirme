@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "시계";
+"w_date" = "날짜";
+"w_countdown" = "카운트다운";
+"w_note" = "메모";
+"w_battery" = "배터리";

@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Jam";
+"w_date" = "Tanggal";
+"w_countdown" = "Hitung mundur";
+"w_note" = "Catatan";
+"w_battery" = "Baterai";

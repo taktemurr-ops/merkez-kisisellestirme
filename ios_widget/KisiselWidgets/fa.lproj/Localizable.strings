@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "ساعت";
+"w_date" = "تاریخ";
+"w_countdown" = "شمارش معکوس";
+"w_note" = "یادداشت";
+"w_battery" = "باتری";

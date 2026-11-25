@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Relógio";
+"w_date" = "Data";
+"w_countdown" = "Contagem regressiva";
+"w_note" = "Nota";
+"w_battery" = "Bateria";

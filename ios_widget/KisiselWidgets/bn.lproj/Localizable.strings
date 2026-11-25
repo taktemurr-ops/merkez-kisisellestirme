@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "ঘড়ি";
+"w_date" = "তারিখ";
+"w_countdown" = "কাউন্টডাউন";
+"w_note" = "নোট";
+"w_battery" = "ব্যাটারি";

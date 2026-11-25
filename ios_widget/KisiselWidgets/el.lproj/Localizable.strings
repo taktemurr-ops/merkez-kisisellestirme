@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Ρολόι";
+"w_date" = "Ημερομηνία";
+"w_countdown" = "Αντίστροφη μέτρηση";
+"w_note" = "Σημείωση";
+"w_battery" = "Μπαταρία";

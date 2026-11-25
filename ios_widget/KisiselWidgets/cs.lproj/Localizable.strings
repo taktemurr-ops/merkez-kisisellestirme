@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Hodiny";
+"w_date" = "Datum";
+"w_countdown" = "Odpočet";
+"w_note" = "Poznámka";
+"w_battery" = "Baterie";

@@ -1,0 +1,6 @@
+/* Üretildi: proto/apps/kisisel/mkios_widget.py */
+"w_clock" = "Kello";
+"w_date" = "Päivämäärä";
+"w_countdown" = "Lähtölaskenta";
+"w_note" = "Muistiinpano";
+"w_battery" = "Akku";

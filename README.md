@@ -10,8 +10,9 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
   bir araçtan çıkarken ve en az 3 dakika arayla.
 - Play politikası (PLAN.md §6): kilit ekranı değiştirilmez → "Şarj saati (ekran koruyucu)";
   ikon paketi yalnız genel kategori ikonları (appfilter/marka eşlemesi yok); zil sesi atanmaz, WAV kaydedilir.
-- Bu sürümde yerel (Kotlin/Swift) kod gerektiren parçalar yok: sistem canlı duvar kağıdı (WallpaperService),
-  ana ekran widget'ı (AppWidget/WidgetKit), DreamService. Ayrıntı: kisisel-motoru README.
+- Android yerel bileşenleri kisisel-motoru eklentisiyle uygulamaya girer: sistem canlı duvar kağıdı
+  (WallpaperService), 5 ana ekran widget'ı (AppWidget) ve ekran koruyucu saat (DreamService). Hepsi
+  kullanıcı ilgili aracı açana dek kapalıdır. iOS widget uzantısı: ios_widget/README.md (App Group gerekir).
 - İzinler: yok (kamera, konum, depolama, WRITE_SETTINGS istenmez).
 
 | Araç | Depo |
