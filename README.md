@@ -1,7 +1,7 @@
 # Kişiselleştirme · Personalize (merkez-kisisellestirme)
 
-Kişiselleştirme ailesinin **merkez uygulaması**: 5 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "5 Uygulama",
+Kişiselleştirme ailesinin **merkez uygulaması**: 9 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "9 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [kisisel-motoru](https://github.com/taktemurr-ops/kisisel-motoru)
@@ -11,9 +11,13 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 - Play politikası (PLAN.md §6): kilit ekranı değiştirilmez → "Şarj saati (ekran koruyucu)";
   ikon paketi yalnız genel kategori ikonları (appfilter/marka eşlemesi yok); zil sesi atanmaz, WAV kaydedilir.
 - Android yerel bileşenleri kisisel-motoru eklentisiyle uygulamaya girer: sistem canlı duvar kağıdı
-  (WallpaperService), 5 ana ekran widget'ı (AppWidget) ve ekran koruyucu saat (DreamService). Hepsi
+  (WallpaperService), 5 ana ekran widget'ı (AppWidget) ve ekran koruyucu saat (DreamService), şarj animasyonu
+  (DreamService) ve kenar ışıklandırma (bildirim dinleyici + kaplama penceresi). Hepsi
   kullanıcı ilgili aracı açana dek kapalıdır. iOS widget uzantısı: ios_widget/README.md (App Group gerekir).
-- İzinler: yok (kamera, konum, depolama, WRITE_SETTINGS istenmez).
+- İzinler: yalnız kenar ışıklandırma için, kullanıcı açarsa: bildirim erişimi (yalnız "bildirim geldi"
+  sinyali; içerik okunmaz/saklanmaz) ve diğer uygulamaların üzerinde gösterme (SYSTEM_ALERT_WINDOW).
+  Kamera, konum, depolama, WRITE_SETTINGS istenmez. iOS'ta kenar ışıklandırma ve şarj ekranı yalnız
+  uygulama içi önizlemedir (sistem izin vermez).
 
 | Araç | Depo |
 |---|---|
@@ -22,3 +26,7 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Özgün İkon Paketi | [uyg-ozgun-ikon-paketi](https://github.com/taktemurr-ops/uyg-ozgun-ikon-paketi) |
 | Bildirim ve Zil Sesi Paketi | [uyg-bildirim-ve-zil-sesi-paketi](https://github.com/taktemurr-ops/uyg-bildirim-ve-zil-sesi-paketi) |
 | Şarj Saati (Ekran Koruyucu) | [uyg-kilit-ekrani-saati](https://github.com/taktemurr-ops/uyg-kilit-ekrani-saati) |
+| Tema ve Renk Paleti Üretici | [uyg-renk-paleti-uretici](https://github.com/taktemurr-ops/uyg-renk-paleti-uretici) |
+| Şık Yazı ve Sembol Üretici | [uyg-sik-yazi-uretici](https://github.com/taktemurr-ops/uyg-sik-yazi-uretici) |
+| Kenar Işıklandırma | [uyg-kenar-isiklandirma](https://github.com/taktemurr-ops/uyg-kenar-isiklandirma) |
+| Şarj Animasyonu | [uyg-sarj-animasyonu](https://github.com/taktemurr-ops/uyg-sarj-animasyonu) |

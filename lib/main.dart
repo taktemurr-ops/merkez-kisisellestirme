@@ -6,8 +6,12 @@ import 'package:uyg_canli_duvar_kagidi/uyg_canli_duvar_kagidi.dart';
 import 'package:uyg_kilit_ekrani_saati/uyg_kilit_ekrani_saati.dart';
 import 'package:uyg_ozgun_ikon_paketi/uyg_ozgun_ikon_paketi.dart';
 import 'package:uyg_widget_paketi/uyg_widget_paketi.dart';
+import 'package:uyg_renk_paleti_uretici/uyg_renk_paleti_uretici.dart';
+import 'package:uyg_sik_yazi_uretici/uyg_sik_yazi_uretici.dart';
+import 'package:uyg_kenar_isiklandirma/uyg_kenar_isiklandirma.dart';
+import 'package:uyg_sarj_animasyonu/uyg_sarj_animasyonu.dart';
 
-/// Kişiselleştirme: 5 çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Kişiselleştirme: 9 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -23,6 +27,10 @@ final hubConfig = AppHubConfig(
     ozgunIkonPaketiTool,
     bildirimVeZilSesiPaketiTool,
     kilitEkraniSaatiTool,
+    renkPaletiUreticiTool,
+    sikYaziUreticiTool,
+    kenarIsiklandirmaTool,
+    sarjAnimasyonuTool,
   ],
   featured: kisiselFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-kisisellestirme/blob/main/PRIVACY.md',

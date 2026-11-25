@@ -1,4 +1,5 @@
 Egna bakgrunder, ikoner, ljud och klockor; offline.
 
-• Skärm: Levande bakgrunder, Widgetpaket, Eget ikonpaket, Laddningsklocka (skärmsläckare)
+• Skärm: Levande bakgrunder, Widgetpaket, Eget ikonpaket, Laddningsklocka (skärmsläckare), Kantbelysning, Laddningsanimation
 • Ljud: Aviseringsljud och ringsignaler
+• Stil och text: Tema- och färgpalettverktyg, Snygg text och symboler

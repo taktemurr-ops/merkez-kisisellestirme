@@ -1,5 +1,5 @@
 name: merkez_kisisellestirme
-description: "Kişiselleştirme merkez uygulaması: 5 çevrimdışı araç. Android, iOS ve Web."
+description: "Kişiselleştirme merkez uygulaması: 9 çevrimdışı araç. Android, iOS ve Web."
 publish_to: none
 version: 1.0.0+1
 
@@ -40,6 +40,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-kilit-ekrani-saati
       ref: d93e5627f32e0b84fd5fb3ffb791083a8107330e
+  uyg_renk_paleti_uretici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-renk-paleti-uretici
+      ref: main
+  uyg_sik_yazi_uretici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-sik-yazi-uretici
+      ref: main
+  uyg_kenar_isiklandirma:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kenar-isiklandirma
+      ref: main
+  uyg_sarj_animasyonu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-sarj-animasyonu
+      ref: main
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

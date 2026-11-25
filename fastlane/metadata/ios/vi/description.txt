@@ -1,4 +1,5 @@
 Hình nền, biểu tượng, âm thanh và đồng hồ nguyên bản; ngoại tuyến.
 
-• Màn hình: Hình nền động, Gói tiện ích, Gói biểu tượng nguyên bản, Đồng hồ khi sạc (bảo vệ màn hình)
+• Màn hình: Hình nền động, Gói tiện ích, Gói biểu tượng nguyên bản, Đồng hồ khi sạc (bảo vệ màn hình), Đèn viền màn hình, Hiệu ứng sạc pin
 • Âm thanh: Gói âm báo & nhạc chuông
+• Phong cách & chữ: Tạo chủ đề & bảng màu, Chữ kiểu & ký hiệu

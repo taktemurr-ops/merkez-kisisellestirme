@@ -1,4 +1,5 @@
 Fonds, icônes, sons et horloges originaux ; hors ligne.
 
-• Écran: Fonds d'écran animés, Pack de widgets, Pack d'icônes original, Horloge de charge (économiseur)
+• Écran: Fonds d'écran animés, Pack de widgets, Pack d'icônes original, Horloge de charge (économiseur), Éclairage des bords, Animation de charge
 • Son: Sons de notification et sonneries
+• Style et texte: Générateur de thèmes et palettes, Texte stylé et symboles

@@ -1,4 +1,5 @@
 Wallpaper, ikon, suara, dan jam orisinal; offline.
 
-• Layar: Wallpaper Hidup, Paket Widget, Paket Ikon Orisinal, Jam Pengisian (Screensaver)
+• Layar: Wallpaper Hidup, Paket Widget, Paket Ikon Orisinal, Jam Pengisian (Screensaver), Lampu Tepi Layar, Animasi Pengisian Daya
 • Suara: Paket Nada Notifikasi & Dering
+• Gaya & teks: Pembuat Tema & Palet Warna, Teks Keren & Simbol

@@ -1,4 +1,5 @@
 Sfondi, icone, suoni e orologi originali; offline.
 
-• Schermo: Sfondi animati, Pacchetto widget, Pacchetto icone originale, Orologio di ricarica (salvaschermo)
+• Schermo: Sfondi animati, Pacchetto widget, Pacchetto icone originale, Orologio di ricarica (salvaschermo), Illuminazione dei bordi, Animazione di ricarica
 • Suono: Suoni di notifica e suonerie
+• Stile e testo: Generatore di temi e palette, Testo decorato e simboli

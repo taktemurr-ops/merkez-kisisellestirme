@@ -1,4 +1,5 @@
 Fundaluri, pictograme, sunete și ceasuri originale; offline.
 
-• Ecran: Imagini de fundal animate, Pachet de widgeturi, Pachet de pictograme original, Ceas de încărcare (screensaver)
+• Ecran: Imagini de fundal animate, Pachet de widgeturi, Pachet de pictograme original, Ceas de încărcare (screensaver), Iluminarea marginilor, Animație de încărcare
 • Sunet: Sunete de notificare și tonuri de apel
+• Stil și text: Generator de teme și palete de culori, Text stilizat și simboluri

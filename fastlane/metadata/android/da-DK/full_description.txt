@@ -1,4 +1,5 @@
 Originale baggrunde, ikoner, lyde og ure; offline.
 
-• Skærm: Levende baggrunde, Widgetpakke, Originale ikonpakke, Opladningsur (pauseskærm)
+• Skærm: Levende baggrunde, Widgetpakke, Originale ikonpakke, Opladningsur (pauseskærm), Kantbelysning, Opladningsanimation
 • Lyd: Notifikationslyde og ringetoner
+• Stil og tekst: Tema- og farvepaletgenerator, Flot tekst og symboler

@@ -1,4 +1,5 @@
 Papéis de parede, ícones, sons e relógios originais; offline.
 
-• Tela: Papéis de parede animados, Pacote de widgets, Pacote de ícones original, Relógio de carregamento (descanso de tela)
+• Tela: Papéis de parede animados, Pacote de widgets, Pacote de ícones original, Relógio de carregamento (descanso de tela), Iluminação das bordas, Animação de carregamento
 • Som: Sons de notificação e toques
+• Estilo e texto: Gerador de temas e paletas de cores, Letras estilosas e símbolos

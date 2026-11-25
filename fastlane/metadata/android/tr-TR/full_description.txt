@@ -1,4 +1,5 @@
 Özgün duvar kağıdı, ikon, ses ve saatler; çevrimdışı.
 
-• Ekran: Canlı Duvar Kağıdı, Widget Paketi, Özgün İkon Paketi, Şarj Saati (Ekran Koruyucu)
+• Ekran: Canlı Duvar Kağıdı, Widget Paketi, Özgün İkon Paketi, Şarj Saati (Ekran Koruyucu), Kenar Işıklandırma, Şarj Animasyonu
 • Ses: Bildirim ve Zil Sesi Paketi
+• Stil ve yazı: Tema ve Renk Paleti Üretici, Şık Yazı ve Sembol Üretici

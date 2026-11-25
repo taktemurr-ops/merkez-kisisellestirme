@@ -12,6 +12,7 @@ _Son güncelleme / Last updated: 2026-11-25_
 - Reklamlar Google AdMob tarafından gösterilir. İlk açılışta bir kez seçim yaparsınız ("Kabul et" / "Yalnızca gerekli"); gereken bölgelerde Google'ın rıza formu ayrıca gösterilir. Seçiminizi Profil → Reklam ayarlarından değiştirebilirsiniz. Reklam bir işin ortasında asla gösterilmez.
 - Uygulama içi satın almalar Google Play / App Store üzerinden yapılır; ödeme bilgilerinizi görmeyiz.
 - Profil → "Tüm verilerimi sil" ile cihazdaki tüm verileri silebilirsiniz.
+- Kenar ışıklandırma (yalnız Android, yalnız siz açarsanız): "Bildirim erişimi" yalnızca *yeni bir bildirim geldi* bilgisini kullanır; bildirimin başlığı, metni veya göndereni okunmaz, saklanmaz, hiçbir yere gönderilmez. "Diğer uygulamaların üzerinde göster" izni yalnız kenar ışığını çizmek içindir. İkisini de sistem ayarlarından istediğiniz an kapatabilirsiniz.
 - Kumar, şans oyunu veya 18+ içerik yoktur.
 
 ## English
@@ -24,6 +25,7 @@ _Son güncelleme / Last updated: 2026-11-25_
 - Ads are served by Google AdMob. On first launch you choose once ("Accept" / "Essential only"); where required, Google's consent form is also shown. Change it any time in Profile → Ad settings. Ads never interrupt a task.
 - In-app purchases are processed by Google Play / App Store; we never see payment details.
 - Profile → "Delete all my data" removes everything stored on the device.
+- Edge lighting (Android only, only if you turn it on): "Notification access" uses only the fact that *a new notification arrived*; its title, text or sender is never read, stored or sent anywhere. "Display over other apps" is used only to draw the edge glow. You can turn both off any time in system settings.
 - No gambling, games of chance or 18+ content.
 
 İletişim / Contact: (yayıncı e-posta adresi / publisher e-mail)
