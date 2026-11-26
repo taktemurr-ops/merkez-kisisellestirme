@@ -1,6 +1,6 @@
 # Gizlilik Politikası · Privacy Policy — Kişiselleştirme / Personalize
 
-_Son güncelleme / Last updated: 2026-11-25_
+_Son güncelleme / Last updated: 2026-11-26_
 
 ## Türkçe
 - Duvar kağıtları, ikonlar, sesler ve saatler cihazınızda **kodla üretilir**; internet gerekmez. Ayarlarınız yalnızca cihazınızda saklanır.
@@ -27,5 +27,13 @@ _Son güncelleme / Last updated: 2026-11-25_
 - Profile → "Delete all my data" removes everything stored on the device.
 - Edge lighting (Android only, only if you turn it on): "Notification access" uses only the fact that *a new notification arrived*; its title, text or sender is never read, stored or sent anywhere. "Display over other apps" is used only to draw the edge glow. You can turn both off any time in system settings.
 - No gambling, games of chance or 18+ content.
+
+## Ek: Veri akışı ve güvenlik / Addendum: data flows and security
+
+### Türkçe
+- **Yedekleme:** Android'in kendi yedeklemesi açıksa uygulama verileri (ilerleme, ayarlar, kayıtlar) Google hesabınızdaki şifreli cihaz yedeğine dahil olabilir; bunu cihaz ayarlarından kapatabilirsiniz.
+
+### English
+- **Backup:** If Android's own backup is on, app data (progress, settings, records) may be included in the encrypted device backup in your Google account; you can turn this off in the device settings.
 
 İletişim / Contact: (yayıncı e-posta adresi / publisher e-mail)
