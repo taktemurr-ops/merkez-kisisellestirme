@@ -13,49 +13,49 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Araçların ortak motoru
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: c51f7ccf89fbd353a75a1172ac14f84d7f796807
+      ref: d963c354c8192aee24ae144b1673b41d5fbffe6c
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_canli_duvar_kagidi:
     git:
       url: https://github.com/taktemurr-ops/uyg-canli-duvar-kagidi
-      ref: 9669c853a3d98f39b425aaa888bb2c89e0b10840
+      ref: fa16a71e22a9168e7f6d556acc2a055a0141a200
   uyg_widget_paketi:
     git:
       url: https://github.com/taktemurr-ops/uyg-widget-paketi
-      ref: 4a8e600dfe2f514e9c4e2b875987194bfaba0c8c
+      ref: 594f4b62c62b72a30744c375a58c717617d9fb0b
   uyg_ozgun_ikon_paketi:
     git:
       url: https://github.com/taktemurr-ops/uyg-ozgun-ikon-paketi
-      ref: fcac4498bc7088b296be292d72de49e2f901b622
+      ref: 82fbce7550dee06fd917261c8b9cef77e1f5a36e
   uyg_bildirim_ve_zil_sesi_paketi:
     git:
       url: https://github.com/taktemurr-ops/uyg-bildirim-ve-zil-sesi-paketi
-      ref: 5580818c26ad8f70138b7658377c6e18e01d70e1
+      ref: 0e902cb1bddbd57ca3f88f1a484dfe5684e8bcc9
   uyg_kilit_ekrani_saati:
     git:
       url: https://github.com/taktemurr-ops/uyg-kilit-ekrani-saati
-      ref: d93e5627f32e0b84fd5fb3ffb791083a8107330e
+      ref: 61c888775b2d110f9726681172af0fbbff7ac178
   uyg_renk_paleti_uretici:
     git:
       url: https://github.com/taktemurr-ops/uyg-renk-paleti-uretici
-      ref: 89263888479393e51bc9f67f6aa0baecf7aa9af8
+      ref: e834ff9c29ef6d38766a077b4ecd0e81c7d7dbaa
   uyg_sik_yazi_uretici:
     git:
       url: https://github.com/taktemurr-ops/uyg-sik-yazi-uretici
-      ref: a988ef98e72ef78eac2c6daa472020d6e0932727
+      ref: 7aa014e8d8168a7fb2af81feeb76a0e31d1da059
   uyg_kenar_isiklandirma:
     git:
       url: https://github.com/taktemurr-ops/uyg-kenar-isiklandirma
-      ref: d6201cd0a21f9dca44ae18fe40fecb429f688c9e
+      ref: e21117b4b99c22e252b1d047a6f62c357e9955f5
   uyg_sarj_animasyonu:
     git:
       url: https://github.com/taktemurr-ops/uyg-sarj-animasyonu
-      ref: d4c160a4e788d48b12028e7f8cf1d95b6df5be21
+      ref: 8fd7ddc151f4246938a2296afcc24a16a444de91
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -69,11 +69,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: c51f7ccf89fbd353a75a1172ac14f84d7f796807
+      ref: d963c354c8192aee24ae144b1673b41d5fbffe6c
 
 dev_dependencies:
   flutter_test:
