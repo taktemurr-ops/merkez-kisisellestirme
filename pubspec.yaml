@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 8eb30b12914d385b8e8560df8e23e01310fde0c3
   # Araçların ortak motoru
   kisisel_motoru:
     git:
@@ -69,7 +69,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 8eb30b12914d385b8e8560df8e23e01310fde0c3
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
