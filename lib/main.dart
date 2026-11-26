@@ -10,6 +10,7 @@ import 'package:uyg_renk_paleti_uretici/uyg_renk_paleti_uretici.dart';
 import 'package:uyg_sik_yazi_uretici/uyg_sik_yazi_uretici.dart';
 import 'package:uyg_kenar_isiklandirma/uyg_kenar_isiklandirma.dart';
 import 'package:uyg_sarj_animasyonu/uyg_sarj_animasyonu.dart';
+import 'store_flavor.dart';
 
 /// Kişiselleştirme: 9 çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
@@ -36,4 +37,7 @@ final hubConfig = AppHubConfig(
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-kisisellestirme/blob/main/PRIVACY.md',
 );
 
-void main() => bootstrapAppHub(hubConfig);
+void main() {
+  registerStoreFlavor();
+  bootstrapAppHub(hubConfig);
+}
