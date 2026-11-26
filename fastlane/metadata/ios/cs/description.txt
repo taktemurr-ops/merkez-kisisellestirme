@@ -1,5 +1,5 @@
 Originální tapety, ikony, zvuky a hodiny; offline.
 
-• Obrazovka: Živé tapety, Balíček widgetů, Originální sada ikon, Hodiny při nabíjení (spořič), Osvětlení okrajů, Animace nabíjení
+• Obrazovka: Živé tapety, Balíček widgetů, Originální sada ikon, Hodiny při nabíjení (spořič), Osvětlení okrajů, Animace nabíjení, Ostrov oznámení, Vždy zapnutý displej, Blesk při příchozím hovoru
 • Zvuk: Zvuky oznámení a vyzváněcí tóny
-• Styl a text: Generátor motivů a barevných palet, Ozdobné písmo a symboly
+• Styl a text: Generátor motivů a barevných palet, Ozdobné písmo a symboly, Estetická domovská obrazovka

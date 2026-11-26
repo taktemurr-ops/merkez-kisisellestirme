@@ -1,5 +1,5 @@
 Originele achtergronden, iconen, geluiden en klokken; offline.
 
-• Scherm: Live-achtergronden, Widgetpakket, Origineel iconenpakket, Laadklok (schermbeveiliging), Randverlichting, Laadanimatie
+• Scherm: Live-achtergronden, Widgetpakket, Origineel iconenpakket, Laadklok (schermbeveiliging), Randverlichting, Laadanimatie, Meldingeneiland, Always-on-scherm, Flits bij inkomende oproepen
 • Geluid: Meldingsgeluiden en beltonen
-• Stijl en tekst: Thema- en kleurenpaletmaker, Mooie tekst en symbolen
+• Stijl en tekst: Thema- en kleurenpaletmaker, Mooie tekst en symbolen, Esthetisch startscherm

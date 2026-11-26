@@ -1,5 +1,5 @@
 Originelle Hintergründe, Icons, Klänge und Uhren; offline.
 
-• Bildschirm: Live-Hintergründe, Widget-Paket, Originales Icon-Paket, Ladeuhr (Bildschirmschoner), Randbeleuchtung, Lade-Animation
+• Bildschirm: Live-Hintergründe, Widget-Paket, Originales Icon-Paket, Ladeuhr (Bildschirmschoner), Randbeleuchtung, Lade-Animation, Benachrichtigungsinsel, Always-On-Display, Blitz bei eingehenden Anrufen
 • Klang: Benachrichtigungs- und Klingeltöne
-• Stil & Text: Themen- & Farbpaletten-Generator, Schicke Schrift & Symbole
+• Stil & Text: Themen- & Farbpaletten-Generator, Schicke Schrift & Symbole, Ästhetischer Startbildschirm

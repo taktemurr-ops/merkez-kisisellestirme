@@ -1,5 +1,5 @@
 name: merkez_kisisellestirme
-description: "Kişiselleştirme merkez uygulaması: 9 çevrimdışı araç. Android, iOS ve Web."
+description: "Kişiselleştirme merkez uygulaması: 13 çevrimdışı araç. Android, iOS ve Web."
 publish_to: none
 version: 1.0.0+1
 
@@ -18,7 +18,7 @@ dependencies:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: d963c354c8192aee24ae144b1673b41d5fbffe6c
+      ref: 27d97c01b29ed69002c8382b4bc0d49967f5ed88
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_canli_duvar_kagidi:
     git:
@@ -56,6 +56,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-sarj-animasyonu
       ref: 8fd7ddc151f4246938a2296afcc24a16a444de91
+  uyg_dinamik_ada:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-dinamik-ada
+      ref: e63087bb97f36618d224f32bee1a0db55840f385
+  uyg_her_zaman_acik_ekran:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-her-zaman-acik-ekran
+      ref: 6c395ec8d6d5accc0498c993aa530ee4e150b8ef
+  uyg_arama_flasi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-arama-flasi
+      ref: a28f4b7a833b26d9f0ddb2300aa92d183b0daaa6
+  uyg_estetik_ana_ekran:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-estetik-ana-ekran
+      ref: 9b2c6d2528bab26b8f500d67feb8f6abd8b8191f
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -73,7 +89,7 @@ dependency_overrides:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: d963c354c8192aee24ae144b1673b41d5fbffe6c
+      ref: 27d97c01b29ed69002c8382b4bc0d49967f5ed88
 
 dev_dependencies:
   flutter_test:

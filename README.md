@@ -1,7 +1,7 @@
 # Kişiselleştirme · Personalize (merkez-kisisellestirme)
 
-Kişiselleştirme ailesinin **merkez uygulaması**: 9 çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "9 Uygulama",
+Kişiselleştirme ailesinin **merkez uygulaması**: 13 çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "13 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [kisisel-motoru](https://github.com/taktemurr-ops/kisisel-motoru)
@@ -12,12 +12,21 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
   ikon paketi yalnız genel kategori ikonları (appfilter/marka eşlemesi yok); zil sesi atanmaz, WAV kaydedilir.
 - Android yerel bileşenleri kisisel-motoru eklentisiyle uygulamaya girer: sistem canlı duvar kağıdı
   (WallpaperService), 5 ana ekran widget'ı (AppWidget) ve ekran koruyucu saat (DreamService), şarj animasyonu
-  (DreamService) ve kenar ışıklandırma (bildirim dinleyici + kaplama penceresi). Hepsi
-  kullanıcı ilgili aracı açana dek kapalıdır. iOS widget uzantısı: ios_widget/README.md (App Group gerekir).
-- İzinler: yalnız kenar ışıklandırma için, kullanıcı açarsa: bildirim erişimi (yalnız "bildirim geldi"
-  sinyali; içerik okunmaz/saklanmaz) ve diğer uygulamaların üzerinde gösterme (SYSTEM_ALERT_WINDOW).
-  Kamera, konum, depolama, WRITE_SETTINGS istenmez. iOS'ta kenar ışıklandırma ve şarj ekranı yalnız
-  uygulama içi önizlemedir (sistem izin vermez).
+  (DreamService), kenar ışıklandırma (bildirim dinleyici + kaplama penceresi), dinamik bildirim adası
+  (bildirim dinleyici + kaplama), her zaman açık ekran (DreamService), gelen aramada flaş (bildirim
+  dinleyici + fener) ve estetik ana ekran (kısayol sabitleme). Hepsi kullanıcı ilgili aracı açana dek
+  kapalıdır. iOS widget uzantısı: ios_widget/README.md (App Group gerekir).
+- İzinler: yalnız SYSTEM_ALERT_WINDOW (diğer uygulamaların üzerinde göster: kenar ışığı, ada, arama flaşı
+  kenarı) ve kullanıcının sistem ayarlarından açtığı bildirim erişimi (kenar, ada ve arama için ayrı
+  dinleyiciler). Kamera, konum, depolama, WRITE_SETTINGS istenmez.
+- Play politikası, en az yetki (4. tur): arama flaşı READ_PHONE_STATE / READ_CALL_LOG / READ_CONTACTS /
+  ANSWER_PHONE_CALLS / CAMERA **istemez** (gelen arama sistem bildiriminden anlaşılır, fener
+  setTorchMode ile); estetik ana ekran QUERY_ALL_PACKAGES istemez (LAUNCHER `<queries>`); erişilebilirlik
+  hizmeti ve ön plan hizmeti yoktur. Ayrıntı ve gerekçeler: kisisel-motoru README "Play politikası".
+  Play Console beyanı: Veri güvenliği formunda "uygulama etkinliği / diğer" altında bildirim verisi cihazda
+  işlenir, toplanmaz/paylaşılmaz. İzin beyan formu gerektiren kısıtlı izin kullanılmaz.
+- iOS'ta kenar ışıklandırma, ada, arama flaşı ve şarj ekranı uygulamalara kapalıdır: uygulama içi önizleme
+  ve dürüst açıklama (iOS "Uyarılar için LED Flaşı", sistem AOD ayarı, Kestirmeler ile ana ekran simgesi).
 
 | Araç | Depo |
 |---|---|
@@ -30,3 +39,7 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Şık Yazı ve Sembol Üretici | [uyg-sik-yazi-uretici](https://github.com/taktemurr-ops/uyg-sik-yazi-uretici) |
 | Kenar Işıklandırma | [uyg-kenar-isiklandirma](https://github.com/taktemurr-ops/uyg-kenar-isiklandirma) |
 | Şarj Animasyonu | [uyg-sarj-animasyonu](https://github.com/taktemurr-ops/uyg-sarj-animasyonu) |
+| Dinamik Bildirim Adası | [uyg-dinamik-ada](https://github.com/taktemurr-ops/uyg-dinamik-ada) |
+| Her Zaman Açık Ekran | [uyg-her-zaman-acik-ekran](https://github.com/taktemurr-ops/uyg-her-zaman-acik-ekran) |
+| Gelen Aramada Flaş | [uyg-arama-flasi](https://github.com/taktemurr-ops/uyg-arama-flasi) |
+| Estetik Ana Ekran | [uyg-estetik-ana-ekran](https://github.com/taktemurr-ops/uyg-estetik-ana-ekran) |
