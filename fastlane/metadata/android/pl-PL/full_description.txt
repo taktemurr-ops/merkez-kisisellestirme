@@ -1,5 +1,5 @@
 Oryginalne tapety, ikony, dźwięki i zegary; offline.
 
-• Ekran: Animowane tapety, Pakiet widżetów, Oryginalny pakiet ikon, Zegar ładowania (wygaszacz), Podświetlenie krawędzi, Animacja ładowania
+• Ekran: Animowane tapety, Pakiet widżetów, Oryginalny pakiet ikon, Zegar ładowania (wygaszacz), Podświetlenie krawędzi, Animacja ładowania, Wyspa powiadomień, Zawsze włączony ekran, Błysk przy połączeniach przychodzących
 • Dźwięk: Dźwięki powiadomień i dzwonki
-• Styl i tekst: Generator motywów i palet kolorów, Ozdobny tekst i symbole
+• Styl i tekst: Generator motywów i palet kolorów, Ozdobny tekst i symbole, Estetyczny ekran główny

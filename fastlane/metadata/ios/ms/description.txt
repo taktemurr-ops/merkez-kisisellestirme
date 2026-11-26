@@ -1,5 +1,5 @@
 Kertas dinding, ikon, bunyi dan jam asli; luar talian.
 
-• Skrin: Kertas Dinding Hidup, Pek Widget, Pek Ikon Asli, Jam Pengecasan (Penyelamat Skrin), Lampu Tepi Skrin, Animasi Pengecasan
+• Skrin: Kertas Dinding Hidup, Pek Widget, Pek Ikon Asli, Jam Pengecasan (Penyelamat Skrin), Lampu Tepi Skrin, Animasi Pengecasan, Pulau Pemberitahuan, Paparan Sentiasa Hidup, Denyar untuk Panggilan Masuk
 • Bunyi: Pek Nada Pemberitahuan & Deringan
-• Gaya & teks: Pembuat Tema & Palet Warna, Teks Bergaya & Simbol
+• Gaya & teks: Pembuat Tema & Palet Warna, Teks Bergaya & Simbol, Skrin Utama Estetik

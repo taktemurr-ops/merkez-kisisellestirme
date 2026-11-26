@@ -1,5 +1,5 @@
 Alkuperäiset taustat, kuvakkeet, äänet ja kellot; offline.
 
-• Näyttö: Elävät taustakuvat, Widgetpaketti, Alkuperäinen kuvakepaketti, Latauskello (näytönsäästäjä), Reunavalaistus, Latausanimaatio
+• Näyttö: Elävät taustakuvat, Widgetpaketti, Alkuperäinen kuvakepaketti, Latauskello (näytönsäästäjä), Reunavalaistus, Latausanimaatio, Ilmoitussaari, Aina päällä -näyttö, Salama saapuvissa puheluissa
 • Ääni: Ilmoitusäänet ja soittoäänet
-• Tyyli ja teksti: Teema- ja väripalettityökalu, Koristeteksti ja symbolit
+• Tyyli ja teksti: Teema- ja väripalettityökalu, Koristeteksti ja symbolit, Esteettinen aloitusnäyttö

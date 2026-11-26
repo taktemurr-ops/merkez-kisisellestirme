@@ -1,5 +1,5 @@
 Originale bakgrunner, ikoner, lyder og klokker; frakoblet.
 
-• Skjerm: Levende bakgrunner, Widgetpakke, Originale ikonpakke, Ladeklokke (skjermsparer), Kantbelysning, Ladeanimasjon
+• Skjerm: Levende bakgrunner, Widgetpakke, Originale ikonpakke, Ladeklokke (skjermsparer), Kantbelysning, Ladeanimasjon, Varslingsøy, Alltid på-skjerm, Blits ved innkommende anrop
 • Lyd: Varslingslyder og ringetoner
-• Stil og tekst: Tema- og fargepalettverktøy, Fin tekst og symboler
+• Stil og tekst: Tema- og fargepalettverktøy, Fin tekst og symboler, Estetisk startskjerm

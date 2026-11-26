@@ -1,5 +1,5 @@
 Fondos, iconos, sonidos y relojes originales; sin conexión.
 
-• Pantalla: Fondos animados, Paquete de widgets, Paquete de iconos original, Reloj de carga (salvapantallas), Iluminación de bordes, Animación de carga
+• Pantalla: Fondos animados, Paquete de widgets, Paquete de iconos original, Reloj de carga (salvapantallas), Iluminación de bordes, Animación de carga, Isla de notificaciones, Pantalla siempre activa, Flash en llamadas entrantes
 • Sonido: Sonidos de notificación y tonos
-• Estilo y texto: Generador de temas y paletas, Letras bonitas y símbolos
+• Estilo y texto: Generador de temas y paletas, Letras bonitas y símbolos, Pantalla de inicio estética
