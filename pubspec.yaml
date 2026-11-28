@@ -18,7 +18,7 @@ dependencies:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: 27d97c01b29ed69002c8382b4bc0d49967f5ed88
+      ref: 19d4925c85b7465a74595ef1f384649b9cae917b
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_canli_duvar_kagidi:
     git:
@@ -89,7 +89,7 @@ dependency_overrides:
   kisisel_motoru:
     git:
       url: https://github.com/taktemurr-ops/kisisel-motoru
-      ref: 27d97c01b29ed69002c8382b4bc0d49967f5ed88
+      ref: 19d4925c85b7465a74595ef1f384649b9cae917b
 
 dev_dependencies:
   flutter_test:
